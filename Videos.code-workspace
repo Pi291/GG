@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../Videos"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
